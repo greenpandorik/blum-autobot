@@ -35,7 +35,7 @@ This application automates the collection of crystals in Telegram Desktop. It in
 
 #### Support
 
-For any questions or support, please contact the author at [email@example.com](mailto:email@example.com).
+For any questions or support, please contact the author at [green_panda@inbox.ru](mailto:green_panda@inbox.ru).
 
 ---
 
