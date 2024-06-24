@@ -2,12 +2,12 @@
 
 #### Introduction
 
-This application automates the collection of crystals in Telegram Desktop. It interacts with windows, simulates mouse clicks, and monitors keyboard input, providing a convenient way to automate gameplay tasks.
+This application automates the collection of crystals in Telegram app BLUM . It interacts with windows, simulates mouse clicks, and monitors keyboard input, providing a convenient way to automate gameplay tasks.
 
 #### Features
 
 1. **Window Management**
-   - The bot locates and manages the Telegram Desktop window.
+   - The bot locates and manages the Telegram Desktop BLUM window.
    - If multiple windows are open, the bot prompts the user to select the correct Telegram window through a simple graphical interface.
 
 2. **Script Selection**
@@ -21,7 +21,7 @@ This application automates the collection of crystals in Telegram Desktop. It in
 
 #### Usage
 
-1. **Open Telegram Desktop**
+1. **Open Telegram Desktop BLUM**
    - Ensure the desired game window (where crystals appear) is visible.
 
 2. **Launch the Bot**
@@ -43,12 +43,12 @@ For any questions or support, please contact the author at [green_panda@inbox.ru
 
 #### Введение
 
-Это приложение автоматизирует сбор кристаллов в Telegram Desktop. Оно взаимодействует с окнами, имитирует нажатия мыши и отслеживает ввод с клавиатуры, предоставляя удобный способ автоматизации игровых задач.
+Это приложение автоматизирует сбор кристаллов в Telegram игре BLUM. Оно взаимодействует с окнами, имитирует нажатия мыши и отслеживает ввод с клавиатуры, предоставляя удобный способ автоматизации игровых задач.
 
 #### Особенности
 
 1. **Управление окнами**
-   - Бот находит и управляет окном Telegram Desktop.
+   - Бот находит и управляет окном Telegram Desktop BLUM.
    - Если открыто несколько окон, бот предложит пользователю выбрать правильное окно Telegram через простую графическую интерфейс.
 
 2. **Выбор скрипта**
@@ -62,7 +62,7 @@ For any questions or support, please contact the author at [green_panda@inbox.ru
 
 #### Использование
 
-1. **Откройте Telegram Desktop**
+1. **Откройте Telegram Desktop приложение BLUM**
    - Убедитесь, что нужное игровое окно (где появляются кристаллы) видно.
 
 2. **Запустите бота**
